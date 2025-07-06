@@ -1,7 +1,7 @@
-<p align="center">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=Farru19&data=followers,repositories,stars,commits&theme=darkmode" alt="Banner Farru19">
-</p>
-<p align="center">I'm Farhan, Cybersecurity Student From Saarland University.</p>
+#<p align="center">
+#    <img src="https://github-widgetbox.vercel.app/api/profile?username=Farru19&data=followers,repositories,stars,commits&theme=darkmode" alt="Banner Farru19">
+#</p>
+#<p align="center">Student.</p>
 
 ---
 ## 🌐 Socials:
